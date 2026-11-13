@@ -10,8 +10,8 @@ Local deep research that builds your own private library. You give it a goal; it
 pages and papers, indexes them, and writes a short report in which **every sentence cites a source passage**. Everything
 runs on your machine with [Ollama](https://ollama.com) and one small model. No cloud, no API keys.
 
-> **Status: v0.3 (scope v3).** Deep research, the source panel with feedback, and the reranker are done.
-> Chat over the library (M4) is next. See [docs/STATUS.md](docs/STATUS.md) and [docs/SCOPE.md](docs/SCOPE.md).
+> **Status: complete (v0.3.3).** Deep research, the source panel with feedback, and the reranker are done and released.
+> Chat over the library and an insights page are possible future work, not planned. See [docs/STATUS.md](docs/STATUS.md).
 
 ![A report chapter: every sentence cites a passage, shown in the margin with feedback buttons](docs/images/report-chapter.png)
 

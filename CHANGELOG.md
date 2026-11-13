@@ -3,6 +3,10 @@
 Releases: <https://github.com/prashanth-ds-ml/research-desk/releases>. How each stage was built and measured:
 [docs/PROGRESS_LOG.md](docs/PROGRESS_LOG.md).
 
+## Unreleased (2026-11-13)
+
+- Docs only: the project is marked complete at v0.3.3. Chat (M4) and the insights page (M5) are possible future work.
+
 ## 0.3.3 (2026-10-22)
 
 - Case study rewritten as a one-page story (the failure, the fix, measured results and limits); the stage-by-stage

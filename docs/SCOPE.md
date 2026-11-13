@@ -85,8 +85,8 @@ goal; (3) later, with a few hundred labels, tuning of weights and reranker. No a
 | M1 | **Research from chunks**, one model: research step retrieves chunks (hybrid) instead of extracting facts; writer per the report rules; code checks; engine version in the run record | Claude: tests + one live run on a small goal. You: run one real goal and read the report |
 | M2 | **Source panel + feedback** on reports (dashboard), feedback table, versions | You rate the sources of a report in under 2 minutes. **Baseline period starts: use it daily** |
 | M3 | **Reranker:** measured on the frozen retrieval set (hybrid vs hybrid + rerank); switched on as `v3.1` if it wins | Offline recall numbers in EVALS; before/after on your ratings after a few days |
-| M4 | **Chat** over the library: same retrieve → rerank → answer, same source panel and feedback, "research this" when the library has no answer | You use chat for your own questions for a week |
-| M5 | **Insights page** (questions, % sources relevant, helpful rate, worst sources, per version) + demo polish + README + case study numbers | A 10-minute client demo works end to end |
+| M4 | *(not planned; project closed at v0.3.3 on 2026-11-13)* **Chat** over the library: same retrieve → rerank → answer, same source panel and feedback, "research this" when the library has no answer | You use chat for your own questions for a week |
+| M5 | *(not planned beyond the shipped README and case study)* **Insights page** (questions, % sources relevant, helpful rate, worst sources, per version) + demo polish + README + case study numbers | A 10-minute client demo works end to end |
 
 ## Kept from v2
 

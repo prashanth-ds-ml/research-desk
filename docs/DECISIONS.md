@@ -491,3 +491,9 @@ other domains' LLM work is worth learning from. The risk is generalising a domai
 the writer must name the domain of a domain-specific passage ("In a clinical decision-support study, ..."); code flags a
 cited sentence whose source title names a domain (medical, legal, financial, biology, education) when the sentence does not
 ("check domain", v3 only).
+
+## Research Desk is complete at v0.3.3 (2026-11-13)
+M1-M3 shipped and were released as v0.3.0-v0.3.3 with a quick start, setup and user guides, a case study and evals. The
+user closed the project here: M4 (chat over the library) and the rest of M5 (insights page, recorded demo) move to
+"possible future work" and are not planned. The README, STATUS and SCOPE say so, so the public repo no longer reads as
+half-done.
